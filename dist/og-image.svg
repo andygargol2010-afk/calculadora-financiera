@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">FinCalculator, calculadoras financieras online</title>
+  <desc id="desc">Interés compuesto, préstamos, inflación, dividendos y cartera de inversión.</desc>
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <rect x="72" y="72" width="86" height="86" rx="20" fill="#10b981"/>
+  <path d="M94 132l22-28 18 18 27-36" fill="none" stroke="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="72" y="280" fill="white" font-family="Arial, sans-serif" font-size="64" font-weight="700">FinCalculator</text>
+  <text x="72" y="360" fill="#a7f3d0" font-family="Arial, sans-serif" font-size="38">Calculadoras financieras online</text>
+  <text x="72" y="440" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="28">Interés compuesto · Préstamos · Inflación · CAGR · Carteras</text>
+</svg>

@@ -1,0 +1,1 @@
+import{v as e,x as t}from"./shared-D_SUGLVN.js";import{E as n,t as r}from"./CartesianChart-CSUBEKRi.js";var i=t(e()),a=[`axis`],o=(0,i.forwardRef)((e,t)=>i.createElement(r,{chartName:`AreaChart`,defaultTooltipEventType:`axis`,validateTooltipEventTypes:a,tooltipPayloadSearcher:n,categoricalChartProps:e,ref:t}));export{o as t};
